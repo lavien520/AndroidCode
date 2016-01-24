@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">拨号</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_haha">haha</string>
+    <string name="action_settings">Settings</string>
+    <string name="dail">拨号</string>
+    <string name="input_num">Please input your numbers!</string>
+
+</resources>
